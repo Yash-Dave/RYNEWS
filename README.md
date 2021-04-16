@@ -9,7 +9,7 @@
    - DJANGO 
    - HTML 
    - CSS
-- Deployment:[R&Y News](https://r-y-news-ucoe.herokuapp.com/)
+- Deployment:  [R&Y News](https://r-y-news-ucoe.herokuapp.com/)
 - About Me
   - 🌱 I’m currently learning M.E.R.N Stack 
   
