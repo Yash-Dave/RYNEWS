@@ -1,6 +1,6 @@
-### Hi there 👋, I am Rohan Makwana.
+### Hi there 👋, I am Yash Dave.
 #### I am a web developer from Mumbai,India.
-* I made this project in collaboration with my teammate **Yash Dave** ([@Yash-Dave](https://github.com/Yash-Dave)) for our college end sem mini-project.
+* I made this project in collaboration with my teammate **Rohan Makwana** ([@Rohan-Makwana](https://github.com/RM6501/)) for our college end semester mini-project.
 * It is a simple responsive news site to get at pace with all the latest news.
 * The website is made using django framework.
 
