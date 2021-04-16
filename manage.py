@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+
+heroku config:set DISABLE_COLLECTSTATIC=1
