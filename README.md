@@ -12,7 +12,7 @@
   
   
  
-- Deployment:[R&Y News](https://r-y-news-ucoe.herokuapp.com/)
+- Deployment: [R&Y News](https://r-y-news-ucoe.herokuapp.com/)
   
   ![desktop home](https://github.com/RM6501/R-Y-NEWS-DJANGO/blob/01b5b7c68cc294ffdd94081effda8da85c3aa6b7/images/Desktop%20home.png)
   
